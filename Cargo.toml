@@ -1,0 +1,6 @@
+[package]
+name = "rust-dining-philosophers"
+version = "0.1.0"
+authors = ["konojunya <junya03dance@gmail.com>"]
+
+[dependencies]
